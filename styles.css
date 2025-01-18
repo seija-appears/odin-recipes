@@ -1,0 +1,18 @@
+/* styles.css */
+
+* {
+    background-color: #282a36;
+    
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ff79c6;
+}
+
+p {
+    color: #f8f8f2;
+}
+
+a {
+    color: #bd93f9;
+}
