@@ -11,6 +11,10 @@
     height: auto;
 }
 
+.lead-header
+    {
+        color: #ff5555;
+    }
 
 /* Comment out styles setup prior to learning CSS Cascade
 * {
