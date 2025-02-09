@@ -1,5 +1,10 @@
 /* styles.css */
 
+.lead-image
+{
+    max-width: 100%;
+    height: auto;
+}
 /* Comment out styles setup prior to learning CSS Cascade
 * {
     background-color: #282a36;
