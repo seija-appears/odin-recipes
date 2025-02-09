@@ -1,10 +1,17 @@
 /* styles.css */
+/*color choices from https://github.com/dracula/dracula-theme*/
 
+* {
+    background-color: #282a36;
+    color: #f8f8f2;
+}
 .lead-image
 {
     max-width: 100%;
     height: auto;
 }
+
+
 /* Comment out styles setup prior to learning CSS Cascade
 * {
     background-color: #282a36;
