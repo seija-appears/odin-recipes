@@ -19,6 +19,19 @@ body {
         background-color: #44475a;
     }
 
+
+.recipe .recipe-description {
+    color: #ffb86c;
+
+}
+
+.recipe .recipe-ingredients {
+    color: #50fa7b
+}
+
+.recipe .recipe-instructions {
+    color: #ff79c6;
+}
 /* Comment out styles setup prior to learning CSS Cascade
 * {
     background-color: #282a36;
