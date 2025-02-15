@@ -1,24 +1,21 @@
 /* styles.css */
 /*color choices from https://github.com/dracula/dracula-theme*/
 
-* {
+body {
     background-color: #282a36;
     color: #f8f8f2;
 }
-.lead-image
-{
+.lead-image {
     max-width: 100%;
     height: auto;
 }
 
-.lead-header
-    {
+.lead-header {
         color: #ff5555;
         
     }
 
-.recipe
-    {
+.recipe {
         background-color: #44475a;
     }
 
