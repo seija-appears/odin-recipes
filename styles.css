@@ -20,20 +20,19 @@ body {
         background-color: #44475a;
     }
 
-
 .recipe .recipe-description /*h1, h2, h3, h4, h5, h6*/ {
     color: #ffb86c;
-
+    background-color: aquamarine;
 }
-
 
 .recipe .recipe-ingredients /*h1, h2, h3, h4, h5, h6*/ {
-    color: #50fa7b
+    color: #50fa7b;
+    background-color: tomato;
 }
-
 
 .recipe .recipe-instructions /*h1, h2, h3, h4, h5, h6*/ {
     color: #ff79c6;
+    background-color: chocolate;
 }
 
 /* Comment out styles setup prior to learning CSS Cascade
