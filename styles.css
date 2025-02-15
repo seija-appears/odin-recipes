@@ -4,6 +4,7 @@
 body {
     background-color: #282a36;
     color: #f8f8f2;
+    
 }
 .lead-image {
     max-width: 100%;
@@ -20,16 +21,17 @@ body {
     }
 
 
-.recipe .recipe-description {
+.recipe .recipe-description h1, h2, h3, h4, h5, h6 {
     color: #ffb86c;
 
 }
 
-.recipe .recipe-ingredients {
+
+.recipe .recipe-ingredients h1, h2, h3, h4, h5, h6 {
     color: #50fa7b
 }
 
-.recipe .recipe-instructions {
+.recipe .recipe-instructions h1, h2, h3, h4, h5, h6 {
     color: #ff79c6;
 }
 /* Comment out styles setup prior to learning CSS Cascade
