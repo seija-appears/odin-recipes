@@ -20,19 +20,30 @@ body {
         background-color: #44475a;
     }
 
-.recipe .recipe-description /*h1, h2, h3, h4, h5, h6*/ {
-    color: #ffb86c;
+.recipe .recipe-description {
     background-color: aquamarine;
 }
+    
+.recipe .recipe-description > h1, h2, h3, h4, h5, h6 {
+    color: #ffb86c;
+}
 
-.recipe .recipe-ingredients /*h1, h2, h3, h4, h5, h6*/ {
-    color: #50fa7b;
+.recipe .recipe-ingredients
+{
     background-color: tomato;
 }
 
-.recipe .recipe-instructions /*h1, h2, h3, h4, h5, h6*/ {
+.recipe .recipe-ingredients > h1, h2, h3, h4, h5, h6 {
+    color: #50fa7b;
+
+}
+
+.recipe .recipe-instructions{
+    background-color: blue;
+}
+
+.recipe .recipe-instructions > h1, h2, h3, h4, h5, h6 {
     color: #ff79c6;
-    background-color: chocolate;
 }
 
 /* Comment out styles setup prior to learning CSS Cascade
