@@ -26,7 +26,7 @@ a {
 
 
 .recipe .recipe-description {
-    background-color: aquamarine; /*color crimes to make things obvious*/
+    /*background-color: aquamarine; */
 }
     
 .recipe-description .recipe-description-header {
@@ -34,7 +34,7 @@ a {
 }
 
 .recipe .recipe-ingredients {
-    background-color: tomato;
+    /*background-color: tomato;*/
 }
 
 .recipe-ingredients .recipe-ingredients-header {
@@ -42,7 +42,7 @@ a {
 }
 
 .recipe .recipe-instructions {
-    background-color: blue;
+   /*background-color: blue;*/
 }
 
 .recipe-instructions .recipe-instructions-header {
