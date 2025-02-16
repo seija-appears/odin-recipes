@@ -20,30 +20,28 @@ body {
         background-color: #44475a;
     }
 
-.recipe .recipe-description-text {
+
+.recipe .recipe-description {
     background-color: aquamarine; /*color crimes to make things obvious*/
 }
     
-.recipe .recipe-description-header {
+.recipe-description .recipe-description-header {
     color: #ffb86c;
 }
 
-.recipe .recipe-ingredients-text
-{
+.recipe .recipe-ingredients {
     background-color: tomato;
 }
 
-.recipe .recipe-header {
+.recipe-ingredients .recipe-ingredients-header {
     color: #50fa7b;
-
 }
 
-.recipe .recipe-instructions{
+.recipe .recipe-instructions {
     background-color: blue;
 }
 
-
-.recipe .recipe-instructionsg {
+.recipe-instructions .recipe-instructions-header {
     color: #ff79c6;
 }
 
