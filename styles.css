@@ -6,6 +6,10 @@ body {
     color: #f8f8f2;
     
 }
+
+a {
+    color: #8be9fd;
+}
 .lead-image {
     max-width: 100%;
     height: auto;
