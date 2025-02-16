@@ -20,20 +20,20 @@ body {
         background-color: #44475a;
     }
 
-.recipe .recipe-description {
-    background-color: aquamarine;
+.recipe .recipe-description-text {
+    background-color: aquamarine; /*color crimes to make things obvious*/
 }
     
-.recipe-description {
+.recipe .recipe-description-header {
     color: #ffb86c;
 }
 
-.recipe .recipe-ingredients
+.recipe .recipe-ingredients-text
 {
     background-color: tomato;
 }
 
-.recipe .recipe-ingredients {
+.recipe .recipe-header {
     color: #50fa7b;
 
 }
@@ -43,7 +43,7 @@ body {
 }
 
 
-.recipe .recipe-instructions {
+.recipe .recipe-instructionsg {
     color: #ff79c6;
 }
 
