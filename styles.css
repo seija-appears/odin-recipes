@@ -24,7 +24,7 @@ body {
     background-color: aquamarine;
 }
     
-.recipe .recipe-description > h1, h2, h3, h4, h5, h6 {
+.recipe-description {
     color: #ffb86c;
 }
 
@@ -33,7 +33,7 @@ body {
     background-color: tomato;
 }
 
-.recipe .recipe-ingredients > h1, h2, h3, h4, h5, h6 {
+.recipe .recipe-ingredients {
     color: #50fa7b;
 
 }
@@ -42,7 +42,8 @@ body {
     background-color: blue;
 }
 
-.recipe .recipe-instructions > h1, h2, h3, h4, h5, h6 {
+
+.recipe .recipe-instructions {
     color: #ff79c6;
 }
 
