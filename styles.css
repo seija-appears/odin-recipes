@@ -1,5 +1,16 @@
 /* styles.css */
 /*color choices from https://github.com/dracula/dracula-theme*/
+html {
+    box-sizing: border-box;
+  }
+  
+  *,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+  }
+  
+
 
 body {
     background-color: #282a36;
